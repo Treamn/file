@@ -1,0 +1,194 @@
+#dadi {
+    background-color: black;
+    height: 1000%;
+    width: 100%;
+}
+
+#kuai1 {
+    height: 150px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#d1left1 {
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    background-image: url("starfield-banner.jpg");
+}
+#d1right1{
+    width: 1200px;
+    height: 70px;
+    float: right;
+    margin-right: 340px;
+    font-size: 30px;
+    text-align: center;
+    color: antiquewhite;
+}
+#d1right2{
+    width: 1300px;
+    height: 70px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-right: 340px;
+    float: right;
+    font-size: 21px;
+    text-align: center;
+    color: antiquewhite;
+    background-color: gray;
+}
+
+#kuai2 {
+    height: 700px;
+    width: 100%;
+}
+
+#d2left1 {
+    float: left;
+    height: 700px;
+    width: 800px;
+    margin-left: 40px;
+}
+
+#d2rightt1 {
+    float: right;
+    width: 400px;
+    height: 350px;
+    margin-right: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: aqua;
+}
+
+#d2rightt2 {
+    float: right;
+    width: 500px;
+    height: 350px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#d2rightb {
+    float: right;
+    width: 970px;
+    height: 330px;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+
+#kuai3 {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#d3left1 {
+    height: 400px;
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+#d3left2 {
+    height: 400px;
+    width: 800px;
+    float: left;
+    margin-right: 20px;
+}
+
+#d3right1 {
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin-right: 40px;
+}
+
+#kuai4 {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#d4left1 {
+    width: 400px;
+    height: 400px;
+    margin-left: 40px;
+    margin-right: 20px;
+    float: left;
+}
+
+#d4left2 {
+    width: 400px;
+    height: 400px;
+    margin-right: 40px;
+    float: left;
+}
+
+#d4right1 {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 40px;
+}
+
+#d4right2 {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 40px;
+}
+
+#kuai5 {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(48, 48, 160);
+    margin-top: 50px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+
+#kuai6 {
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+#d6left1 {
+    width: 90px;
+    height: 300px;
+    margin-left: 40px;
+    float: left;
+}
+
+#d6left2{
+    height: 300px;
+    width: 500px;
+    float: left;
+    color: antiquewhite;
+}
+
+#d6right1 {
+    width: 1000px;
+    height: 20px;
+    float: right;
+    margin-top: 80px;
+    margin-right: 40px;
+    color: rgb(73, 73, 194);
+    text-align: right;
+    font-size: 20px;
+}
+
+.ziti1{
+    height: 30px;
+    width: 100%;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
